@@ -56,7 +56,7 @@ local themes = {
     ElementColor = Color3.fromRGB(32, 32, 38)
 }
 local themeStyles = {
-    DefaultTheme = {
+    EloTheme = {
         SchemeColor = Color3.fromRGB(54,54,54),
         Background = Color3.fromRGB(20,20,20),
         Header = Color3.fromRGB(0,0,0),
