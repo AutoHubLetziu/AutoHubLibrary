@@ -151,8 +151,8 @@ function AutoHub.CreateLib(kavName, themeList)
     if not themeList then
         themeList = themes
     end
-    if themeList == "DefaultTheme" then
-        themeList = themeStyles.DefaultTheme
+    if themeList == "EloTheme" then
+        themeList = themeStyles.EloTheme
     elseif themeList == "LightTheme" then
         themeList = themeStyles.LightTheme
     elseif themeList == "BloodTheme" then
