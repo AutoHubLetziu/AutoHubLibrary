@@ -59,7 +59,7 @@ local themeStyles = {
     DefaultTheme = {
         SchemeColor = Color3.fromRGB(54,54,54),
         Background = Color3.fromRGB(20,20,20),
-        Header = Color3.fromRGB(245,145,45),
+        Header = Color3.fromRGB(0,0,0),
         TextColor = Color3.fromRGB(245,145,45),
         ElementColor = Color3.fromRGB(20,20,20)
     },
