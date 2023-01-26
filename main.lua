@@ -57,11 +57,11 @@ local themes = {
 }
 local themeStyles = {
     DefaultTheme = {
-        SchemeColor = Color3.fromRGB(115, 114, 114),
+        SchemeColor = Color3.fromRGB(54,54,54),
         Background = Color3.fromRGB(20,20,20),
         Header = Color3.fromRGB(245,145,45),
         TextColor = Color3.fromRGB(245,145,45),
-        ElementColor = Color3.fromRGB(20, 20, 20)
+        ElementColor = Color3.fromRGB(20,20,20)
     },
     LightTheme = {
         SchemeColor = Color3.fromRGB(150, 150, 150),
